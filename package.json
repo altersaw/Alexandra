@@ -1,0 +1,24 @@
+{
+  "name": "alexandra",
+  "version": "1.0.0",
+  "description": "alexandra project",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altersaw/Alexandra.git"
+  },
+  "author": "Alexander Shvetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altersaw/Alexandra/issues"
+  },
+  "homepage": "https://github.com/altersaw/Alexandra#readme"
+}
